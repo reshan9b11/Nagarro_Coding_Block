@@ -53,7 +53,7 @@ namespace nagarro_dotNet_mar19
                 if (root == null) return;
 
                 PrintTree(root.left);
-                Console.Write($"{root.data}, ");
+                Console.Write($"{root.data} ");
                 PrintTree(root.right);
             }
 
