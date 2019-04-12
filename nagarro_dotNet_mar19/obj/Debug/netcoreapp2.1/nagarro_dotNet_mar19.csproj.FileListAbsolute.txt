@@ -1,0 +1,11 @@
+C:\Users\reshanfaraz\Desktop\nagarro-dotnet-mar19\nagarro_dotNet_mar19\bin\Debug\netcoreapp2.1\nagarro_dotNet_mar19.deps.json
+C:\Users\reshanfaraz\Desktop\nagarro-dotnet-mar19\nagarro_dotNet_mar19\bin\Debug\netcoreapp2.1\nagarro_dotNet_mar19.runtimeconfig.json
+C:\Users\reshanfaraz\Desktop\nagarro-dotnet-mar19\nagarro_dotNet_mar19\bin\Debug\netcoreapp2.1\nagarro_dotNet_mar19.runtimeconfig.dev.json
+C:\Users\reshanfaraz\Desktop\nagarro-dotnet-mar19\nagarro_dotNet_mar19\bin\Debug\netcoreapp2.1\nagarro_dotNet_mar19.dll
+C:\Users\reshanfaraz\Desktop\nagarro-dotnet-mar19\nagarro_dotNet_mar19\bin\Debug\netcoreapp2.1\nagarro_dotNet_mar19.pdb
+C:\Users\reshanfaraz\Desktop\nagarro-dotnet-mar19\nagarro_dotNet_mar19\obj\Debug\netcoreapp2.1\nagarro_dotNet_mar19.csprojAssemblyReference.cache
+C:\Users\reshanfaraz\Desktop\nagarro-dotnet-mar19\nagarro_dotNet_mar19\obj\Debug\netcoreapp2.1\nagarro_dotNet_mar19.csproj.CoreCompileInputs.cache
+C:\Users\reshanfaraz\Desktop\nagarro-dotnet-mar19\nagarro_dotNet_mar19\obj\Debug\netcoreapp2.1\nagarro_dotNet_mar19.AssemblyInfoInputs.cache
+C:\Users\reshanfaraz\Desktop\nagarro-dotnet-mar19\nagarro_dotNet_mar19\obj\Debug\netcoreapp2.1\nagarro_dotNet_mar19.AssemblyInfo.cs
+C:\Users\reshanfaraz\Desktop\nagarro-dotnet-mar19\nagarro_dotNet_mar19\obj\Debug\netcoreapp2.1\nagarro_dotNet_mar19.dll
+C:\Users\reshanfaraz\Desktop\nagarro-dotnet-mar19\nagarro_dotNet_mar19\obj\Debug\netcoreapp2.1\nagarro_dotNet_mar19.pdb
